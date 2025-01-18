@@ -34,6 +34,7 @@
   },
   "name":"decollite",
   "resources":[
+    {"id":{"name":"Obj_name","path":"objects/Obj_name/Obj_name.yy",},},
     {"id":{"name":"room1","path":"rooms/room1/room1.yy",},},
   ],
   "resourceType":"GMProject",
